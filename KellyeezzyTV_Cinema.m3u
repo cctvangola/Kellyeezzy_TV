@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="http://i.imgur.com/YwZsGFd.png" group-title="INFO",*KELLYEEZZY TV (923.48.32.92)
 http://149.56.23.7:20082/stream
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/EN_language_symbol_in_blue_letters_in_a_blue_square.svg/2000px-EN_language_symbol_in_blue_letters_in_a_blue_square.svg.png" group-title="LABEL",~ MOVIES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/EN_language_symbol_in_blue_letters_in_a_blue_square.svg/2000px-EN_language_symbol_in_blue_letters_in_a_blue_square.svg.png" group-title="LABEL",~ MOVIES (Actualizados)
 http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VA80lB.jpg" group-title="MOVIES",Hellraiser: Judgment (2018)
